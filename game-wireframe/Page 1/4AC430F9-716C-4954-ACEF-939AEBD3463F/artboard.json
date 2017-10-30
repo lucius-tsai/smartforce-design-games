@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": -216,
-    "y": -188
+    "height": 760,
+    "width": 1208,
+    "x": -1577,
+    "y": 765
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,15 +39,51 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "group",
+      "id": "CDFA03E1-937C-4854-A83B-172D856ADB91"
+    },
+    {
+      "class": "group",
+      "id": "FA36D5B4-ECBA-4D68-888D-04E7443D6AA2"
+    },
+    {
+      "class": "group",
+      "id": "731C0867-2ECE-4811-A12D-9CB20F102EFF"
+    },
+    {
+      "class": "group",
+      "id": "D633B780-185D-4109-840E-EDDAF8631F0D"
+    },
+    {
+      "class": "text",
+      "id": "39168BB7-0F61-490B-80A1-86347B614965"
+    },
+    {
       "class": "shapeGroup",
-      "id": "F53711EE-301D-4D85-9ECF-070F41DFB390"
+      "id": "926F8A63-1DDB-42E9-AB5D-91FA8322A4FD"
+    },
+    {
+      "class": "text",
+      "id": "C7F3C25F-F6ED-4F81-ADE0-E57F99666879"
+    },
+    {
+      "class": "text",
+      "id": "2F5BFBAC-EB06-42ED-A73F-E0116F0286C8"
+    },
+    {
+      "class": "group",
+      "id": "82C95B42-564D-4DC0-8BA2-54D6395DB54D"
+    },
+    {
+      "class": "text",
+      "id": "DF8D7575-0CE0-4081-9B3F-6BAF51E1ED56"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "新增角色-2",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
