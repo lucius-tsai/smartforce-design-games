@@ -1,0 +1,141 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "A00FE17A-CECC-4887-AF6F-DEB032A2CE34",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74.834,
+    "width": 89.57199999999999,
+    "x": 87.308,
+    "y": 113.954
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.044288393694457924, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.044288393694457924, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.044288393694457924, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.053010663602105976}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.053010663602105976}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0.053010663602105976}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.8939252211561588}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.8939252211561588}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0.8939252211561588}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.08859911579511448, 1}",
+        "curveMode": 1,
+        "curveTo": "{0.08859911579511448, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.08859911579511448, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.39238824632697711, 1}",
+        "curveMode": 1,
+        "curveTo": "{0.39238824632697711, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.39238824632697711, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.48099852632519086, 0.8939252211561588}",
+        "curveMode": 1,
+        "curveTo": "{0.48099852632519086, 0.8939252211561588}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.48099852632519086, 0.8939252211561588}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.98735095788862615, 0.8939252211561588}",
+        "curveMode": 1,
+        "curveTo": "{0.98735095788862615, 0.8939252211561588}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.98735095788862615, 0.8939252211561588}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0.87878504423123183}",
+        "curveMode": 1,
+        "curveTo": "{1, 0.87878504423123183}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 0.87878504423123183}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0.045447256594595989}",
+        "curveMode": 1,
+        "curveTo": "{1, 0.045447256594595989}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 0.045447256594595989}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.96203054525967924, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.96203054525967924, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.96203054525967924, 0}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}
