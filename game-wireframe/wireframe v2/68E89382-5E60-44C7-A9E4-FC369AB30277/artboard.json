@@ -32,7 +32,7 @@
     "height": 800,
     "width": 1208,
     "x": -454,
-    "y": -363
+    "y": -1234
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,11 +48,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "ADE01407-BCFE-40F1-837B-8AA4419DBE15"
+    },
+    {
+      "class": "group",
+      "id": "DE509B0E-B6CF-4E6B-A037-FEA8F20BBF69"
     },
     {
       "class": "symbolInstance",
@@ -139,39 +143,51 @@
       "id": "D4E9F772-CE3C-42EC-9CA1-1BC0A8C6198E"
     },
     {
-      "class": "group",
-      "id": "72EADCF7-166D-4739-95C3-EF30C792CD00"
+      "class": "text",
+      "id": "6B9783C8-87BF-4D24-85FC-2076731D1D4E"
+    },
+    {
+      "class": "text",
+      "id": "56E920DB-B40C-4D7A-93D8-DCBCB39175BD"
     },
     {
       "class": "shapeGroup",
-      "id": "3DDA1699-62DB-4876-B007-94CBE17E01B0"
+      "id": "FDF2F53E-07BF-496F-8701-808CB2CE9167"
     },
     {
       "class": "text",
-      "id": "726165F6-6575-4DC5-A1C3-FF98A8FA3266"
+      "id": "E2EF1B5F-C18E-4EB0-AF2E-C852A6CCDE0E"
+    },
+    {
+      "class": "group",
+      "id": "9A73D454-9DEE-4B00-8187-9D11851F2D8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44799EC0-5AC0-4A01-88E3-0CB7DBC5B528"
     },
     {
       "class": "text",
-      "id": "06D45A0A-15ED-4DEC-B59D-6DC54138C20A"
+      "id": "39558417-10B9-4331-BB30-81EC70AD133C"
     },
     {
       "class": "text",
-      "id": "047DCEF0-09CB-495F-A90E-474AFFBEEE39"
+      "id": "E1862831-58E7-4F46-93B6-3873E4354E2A"
     },
     {
       "class": "text",
-      "id": "DE4541D7-4662-40BD-88AD-51DBBFDDEC06"
+      "id": "CCB88DA0-7FE2-4E26-AF2A-352A085F6683"
     },
     {
       "class": "text",
-      "id": "D76E22F4-6106-4FCD-A3C0-BA029DE07073"
+      "id": "1F38B6BE-CECF-4914-AD6A-225D19563A31"
     },
     {
       "class": "text",
-      "id": "D8A1919A-C2F7-41C0-BCD0-A5827DDB8A31"
+      "id": "ABE88C1F-21D6-4DF2-B273-5E230F2A659C"
     }
   ],
-  "name": "角色首頁-狀態",
+  "name": "首頁",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

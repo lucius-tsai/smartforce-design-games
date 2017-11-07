@@ -23,7 +23,7 @@
     "height": 800,
     "width": 1208,
     "x": -454,
-    "y": 546
+    "y": -239
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,10 +44,6 @@
     {
       "class": "shapeGroup",
       "id": "0D2F3E2A-FBED-4911-9531-C15E591AE28A"
-    },
-    {
-      "class": "group",
-      "id": "7F91EEDC-0B08-4470-A7FF-93D9B0077FC5"
     },
     {
       "class": "symbolInstance",
@@ -90,10 +86,6 @@
       "id": "74BC957A-FE43-44BA-884E-5AAC61C6494D"
     },
     {
-      "class": "group",
-      "id": "281D57A6-931D-45AB-B665-01B0B6A1BFAF"
-    },
-    {
       "class": "shapeGroup",
       "id": "81E74AF2-7557-4AC5-8CD6-988D3AC0D055"
     },
@@ -114,32 +106,12 @@
       "id": "18C64B60-9591-4C1E-8F0F-E28816337807"
     },
     {
-      "class": "shapeGroup",
-      "id": "CF4B76F2-C356-4415-A198-7D9C2AAA42B3"
-    },
-    {
       "class": "group",
       "id": "7CA4D070-A30A-487F-8735-87BA5D3B8B1D"
     },
     {
-      "class": "text",
-      "id": "B2A69799-50A7-4058-A47E-3F58BB974362"
-    },
-    {
-      "class": "text",
-      "id": "1195CDEA-1E9F-4FE5-9764-1959ED05ABCD"
-    },
-    {
-      "class": "text",
-      "id": "8F8CBF8C-BBBB-4C37-9AC2-5327EC1BC139"
-    },
-    {
-      "class": "text",
-      "id": "E02F3EFF-098F-4586-81A5-41051FE668D9"
-    },
-    {
-      "class": "text",
-      "id": "28D15E4F-A7F8-4C0E-9D57-DDE7C6171F5E"
+      "class": "group",
+      "id": "31A45B6F-E129-470F-AE6E-40BEACF3CBED"
     },
     {
       "class": "text",
@@ -252,9 +224,57 @@
     {
       "class": "text",
       "id": "9109E51B-8F8D-4245-93E9-37AEE104A67B"
+    },
+    {
+      "class": "text",
+      "id": "418FB17A-1FA4-41B5-BEDB-0B83AFB13B9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "794DF517-D4EB-4C76-A39E-78B4C1926312"
+    },
+    {
+      "class": "text",
+      "id": "B7FAAD84-73C3-4F59-9833-2E8A456EA869"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B340D742-9506-490B-800F-0B73B2815937"
+    },
+    {
+      "class": "text",
+      "id": "E90BEAC6-EE19-4DB5-9573-F5475986BF41"
+    },
+    {
+      "class": "group",
+      "id": "328C6E5D-579A-4EC2-A802-EB0AD7B967EA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4DFA1A8-981A-4EA0-9F9B-5968367222AB"
+    },
+    {
+      "class": "text",
+      "id": "6D28B466-02DE-4847-B539-E35CAC4B1411"
+    },
+    {
+      "class": "text",
+      "id": "82436A49-4C7D-4EE6-A376-00E122FD8366"
+    },
+    {
+      "class": "text",
+      "id": "EB17C797-9790-4155-8AD6-73588A76C0E1"
+    },
+    {
+      "class": "text",
+      "id": "A24014FC-50D1-4BA8-9822-94D0A1ED4B08"
+    },
+    {
+      "class": "text",
+      "id": "C1D34E34-E500-4471-BB2D-A1B36DD6D9E2"
     }
   ],
-  "name": "角色首頁-狀態 copy",
+  "name": "角色狀態",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

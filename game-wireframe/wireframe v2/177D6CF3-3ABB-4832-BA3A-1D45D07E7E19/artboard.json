@@ -26,7 +26,7 @@
     "y": 3214
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -239,7 +239,15 @@
     },
     {
       "class": "group",
+      "id": "389BCDDD-A432-4A07-BBC3-90CC45E41DAA"
+    },
+    {
+      "class": "group",
       "id": "81FE9512-1336-446D-BAC8-4743709EE798"
+    },
+    {
+      "class": "group",
+      "id": "19EAAABB-E37C-434D-AA02-760838B2F395"
     },
     {
       "class": "group",
@@ -256,6 +264,14 @@
     {
       "class": "shapeGroup",
       "id": "9E4108E1-DB4E-429F-8F20-F3396C9096EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DD6B3AE-B5D7-4E69-B5F5-C8187347F651"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "63130D3F-2AED-4EBD-880E-4417B27C48DB"
     },
     {
       "class": "text",
@@ -340,9 +356,17 @@
     {
       "class": "shapeGroup",
       "id": "FDF521B1-DA75-4EE8-BBF4-9CA975193ACF"
+    },
+    {
+      "class": "text",
+      "id": "3932BE95-A1E4-459C-97CE-5AFBA4BB0813"
+    },
+    {
+      "class": "text",
+      "id": "2662F007-2F75-45D7-A9C4-2C18B44BAAE0"
     }
   ],
-  "name": "角色首頁-狀態 copy 9",
+  "name": "任務-編輯",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

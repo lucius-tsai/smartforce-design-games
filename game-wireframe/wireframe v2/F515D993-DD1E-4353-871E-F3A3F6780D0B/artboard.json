@@ -26,7 +26,7 @@
     "y": 1436
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -48,10 +48,6 @@
     {
       "class": "group",
       "id": "AB6B6DA4-4417-48F9-8C29-692A1D4806D0"
-    },
-    {
-      "class": "group",
-      "id": "FD3D46A8-4EBA-4B82-9391-EB0569A1A87B"
     },
     {
       "class": "group",
@@ -171,7 +167,7 @@
     },
     {
       "class": "group",
-      "id": "56CC3D56-807E-49EF-B1C9-1B170FB30702"
+      "id": "B350C1E6-9F68-4B0E-B1FB-76A78A7A3D1E"
     },
     {
       "class": "group",
@@ -212,6 +208,46 @@
     {
       "class": "text",
       "id": "378A7099-124D-49C6-BA8E-17356DDCCF8F"
+    },
+    {
+      "class": "text",
+      "id": "46F7D594-2789-476E-A123-9B7018F30667"
+    },
+    {
+      "class": "text",
+      "id": "F3C5DA8A-A3F7-4E1C-8051-BCE77C9C7446"
+    },
+    {
+      "class": "text",
+      "id": "1C227067-643B-4AB2-A908-7DEAB18E960A"
+    },
+    {
+      "class": "text",
+      "id": "A5520F48-5330-4BDD-89AC-F9DDFE6DB518"
+    },
+    {
+      "class": "text",
+      "id": "EC08C8D4-CBAA-434F-A11E-F9D38318A097"
+    },
+    {
+      "class": "text",
+      "id": "201C3CF1-BD77-4EDD-B090-9DD370E21B1C"
+    },
+    {
+      "class": "text",
+      "id": "003ABBFC-2918-42E7-8D62-3B452CBEC7F8"
+    },
+    {
+      "class": "text",
+      "id": "06F35ECE-037E-4EFF-ACED-70F26D727770"
+    },
+    {
+      "class": "text",
+      "id": "EA11D6CC-731E-4BD5-A041-39BEED148E0C"
+    },
+    {
+      "class": "text",
+      "id": "9CD0E312-2192-478C-8A7D-2C48FF2EC602"
     },
     {
       "class": "text",
@@ -278,7 +314,7 @@
       "id": "16FC885C-70D0-48FF-9317-8950D786643E"
     }
   ],
-  "name": "角色首頁-狀態 copy 2",
+  "name": "裝備",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

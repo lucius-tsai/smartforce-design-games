@@ -26,7 +26,7 @@
     "y": 2331
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -214,7 +214,7 @@
       "id": "54775042-F65E-4865-8568-A3294B834314"
     }
   ],
-  "name": "角色首頁-狀態 copy 3",
+  "name": "任務-列表",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
