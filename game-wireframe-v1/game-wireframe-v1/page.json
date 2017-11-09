@@ -1,0 +1,94 @@
+{
+  "_class": "page",
+  "do_objectID": "2d98df80-c4a9-11e7-8f98-8948874fb8dc",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "1B3DEE07-F7D4-4DB1-A9D9-7FE719231404"
+    },
+    {
+      "class": "artboard",
+      "id": "9D97AEB7-4A8F-4581-BFE4-584E51126BE5"
+    },
+    {
+      "class": "artboard",
+      "id": "234D839E-2E43-4DE1-A585-5EAD4E89576F"
+    },
+    {
+      "class": "artboard",
+      "id": "0B009D4D-CCE2-4F3F-A4A7-258BF8069066"
+    },
+    {
+      "class": "artboard",
+      "id": "1ABD3475-8796-4748-8CB8-FE08E10702F3"
+    },
+    {
+      "class": "artboard",
+      "id": "F589B4C1-0787-476F-ACE8-B88CC1D1416B"
+    },
+    {
+      "class": "artboard",
+      "id": "92015C36-1E6D-4D01-83E1-93478E7FD13E"
+    },
+    {
+      "class": "artboard",
+      "id": "F0652AB2-32EC-43CB-BD37-C00C968D10B8"
+    },
+    {
+      "class": "artboard",
+      "id": "F3A637D3-04C9-4BD9-BA84-96247BCEE524"
+    },
+    {
+      "class": "artboard",
+      "id": "07F8467D-DD5D-4154-96D9-6A847078BFFC"
+    }
+  ],
+  "name": "game-wireframe-v1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}

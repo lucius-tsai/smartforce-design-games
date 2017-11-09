@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "662F254D-08CE-4EDC-8AE7-2D6F6262C1E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 89.2146181040302,
+    "width": 89.2146181040302,
+    "x": 5.532689494823578,
+    "y": 5.532689494823578
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33DDCCA0-5B3A-4645-98EB-6FBEE0D09823"
+    },
+    {
+      "class": "bitmap",
+      "id": "E863C141-1385-4A39-95DF-BC799CAA86F0"
+    }
+  ],
+  "name": "螢幕快照 2017-10-25 下午9.32.48",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.915861868529471,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "07F8467D-DD5D-4154-96D9-6A847078BFFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 760,
+    "width": 1208,
+    "x": -3003,
+    "y": -1675
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "692D346E-D150-4634-93C3-F7569E87497E"
+    },
+    {
+      "class": "group",
+      "id": "B58E08C1-6F92-4AF1-A006-C79D8D1A3B0D"
+    },
+    {
+      "class": "group",
+      "id": "70671265-7527-4F81-B327-A6D799F345E1"
+    },
+    {
+      "class": "group",
+      "id": "8E3BFEF7-C673-411C-B094-3A3C10DF877D"
+    },
+    {
+      "class": "text",
+      "id": "2EC0368C-C2D0-415E-BD7B-0C0EA678FB3C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72C422BF-4790-47FF-9BD1-C923E4FD9CCC"
+    },
+    {
+      "class": "text",
+      "id": "28202863-B1F3-4A35-9BB3-1137DC3E7145"
+    },
+    {
+      "class": "text",
+      "id": "9B48530F-1C36-47A9-A50A-B176944ABAE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2456FF1F-104B-4AAE-94B6-7CA170220B31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E75EF3D5-CE0F-492B-A9D3-2F0870C9061A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A32E3892-071D-4AF7-B544-48FA73DB2F0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F190989-B356-4618-94B5-772E2782E318"
+    },
+    {
+      "class": "text",
+      "id": "BEDC8AF8-98A3-4B5C-B7E5-E64B121D70FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93BB01C6-EAD7-4749-A867-4F6E61692E66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68583711-485D-4012-B792-CE5B04210E4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37D0B94A-7B2E-4814-BBB5-5C6A03C8B478"
+    }
+  ],
+  "name": "新增角色-1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
