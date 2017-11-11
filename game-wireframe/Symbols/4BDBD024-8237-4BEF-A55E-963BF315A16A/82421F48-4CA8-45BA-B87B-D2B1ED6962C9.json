@@ -21,9 +21,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 57,
-    "x": 13.50000000000001,
+    "height": 42,
+    "width": 61,
+    "x": 11.50000000000001,
     "y": 13
   },
   "glyphBounds": "{{0, 3}, {57, 11}}",
